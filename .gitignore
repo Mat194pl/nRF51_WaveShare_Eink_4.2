@@ -1,0 +1,14 @@
+nRF5_SDK_12.3.0/components/toolchain/cmsis/dsp/GCC/libarm_cortexM4lf_math.a
+nRF5_SDK_12.3.0/components/toolchain/cmsis/dsp/GCC/libarm_cortexM4l_math.a
+nRF5_SDK_12.3.0/components/toolchain/cmsis/dsp/ARM/arm_cortexM4lf_math.lib
+nRF5_SDK_12.3.0/components/toolchain/cmsis/dsp/ARM/arm_cortexM4l_math.lib
+nRF5_SDK_12.3.0/external/fatfs/
+_build/
+nRF5_SDK_12.3.0/examples/
+nRF5_SDK_12.3.0/external/tiny-AES128/
+nRF5_SDK_12.3.0/svd/
+tools/bmp_converter/a.out
+nRF5_SDK_12.3.0/external/rtx/
+nRF5_SDK_12.3.0/external/protothreads/
+nRF5_SDK_12.3.0/external/freertos/
+nRF5_SDK_12.3.0/external/cifra_AES128-EAX/
