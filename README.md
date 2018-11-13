@@ -1,2 +1,1 @@
-# nRF51_Template_Project_CPP
-Template project for future nRF51 CPP projects.
+# nRF51_WaveShare_Eink_4.2
